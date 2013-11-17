@@ -1,0 +1,5 @@
+C:\Users\donf\Dropbox\Code\cameasy\CAMEasy\CAMEasy.WebUI.Tests\bin\Debug\CAMEasy.WebUI.Tests.dll
+C:\Users\donf\Dropbox\Code\cameasy\CAMEasy\CAMEasy.WebUI.Tests\bin\Debug\CAMEasy.WebUI.Tests.pdb
+C:\Users\donf\Dropbox\Code\cameasy\CAMEasy\CAMEasy.WebUI.Tests\obj\Debug\CAMEasy.WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\donf\Dropbox\Code\cameasy\CAMEasy\CAMEasy.WebUI.Tests\obj\Debug\CAMEasy.WebUI.Tests.dll
+C:\Users\donf\Dropbox\Code\cameasy\CAMEasy\CAMEasy.WebUI.Tests\obj\Debug\CAMEasy.WebUI.Tests.pdb
